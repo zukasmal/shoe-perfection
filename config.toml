@@ -1,0 +1,16 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Shoe Perfection'
+theme = 'mainroad'
+
+
+[Params]
+  description = "John Doe's Personal blog about everything"
+
+[Params.style.vars]
+  highlightColor = "#FF9900"
+
+
+[Params.sidebar]
+  home = "right"
+  widgets = ["recent", "categories"]
