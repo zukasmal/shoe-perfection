@@ -1,4 +1,4 @@
-baseURL = 'www.shoe-perfection.com'
+baseURL = 'https://shoe-perfection.com/'
 languageCode = 'en-us'
 title = 'Shoe Perfection'
 theme = 'mainroad'
