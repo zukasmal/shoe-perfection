@@ -1,4 +1,4 @@
 # shoe-perfection
 
 Other websites:
-- [Cash Conscious](www.cash-conscious.com)
+- [Cash Conscious](https://cash-conscious.com)
